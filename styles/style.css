@@ -68,3 +68,275 @@ nav {
     /* font-weight: 700; */
     margin-top: 0;
 }
+
+
+/* section two styles */
+
+.two {
+    width: 1320px;
+    height: 600px;
+    margin: 0px 140px 130px 160px;
+    background-color: #F00;
+    background-image: url('../imeges/Vectorrr.png');
+}
+
+.section-two {
+    padding-left: 150px;
+}
+
+#welcome-head {
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-weight: 900;
+    letter-spacing: 7.04px;
+    padding-top: 125px;
+}
+
+#welcome-describetion {
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+#join {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    padding-left: 150px;
+    text-decoration: none;
+}
+
+
+
+/* section three styles */
+
+.three {
+    width: 1320px;
+    height: 482px;
+    background-color: lightyellow;
+    margin: 0px 140px 130px 160px;
+    text-align: center;
+}
+
+.join {
+    color: #070211;
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 600;
+}
+
+.red {
+    color: #F00;
+}
+
+#padding {
+    padding-top: 100px;
+}
+
+#join-now {
+    border-radius: 8px;
+    background: #F00;
+    color: white;
+    /* height: 40px; */
+    border: 0;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 16px 32px;
+}
+
+
+
+.bonus {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 1320px;
+    height: 482px;
+    background-color: #FFF;
+    margin: 0px 140px 130px 160px;
+}
+
+#new-offer {
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 0;
+    padding-left: 100px;
+
+}
+
+#soon {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    margin-top: o;
+    margin-bottom: 0;
+    padding-left: 100px;
+}
+
+#bonus-para {
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+    padding-left: 100px;
+}
+
+#bonus-img {
+    width: 364.844px;
+    height: 364.844px;
+    padding-left: 70px;
+}
+
+.same-padding {
+    padding-left: 80px;
+}
+
+#year {
+    color: #F00;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+#bonus-des {
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+}
+
+#happy-img {
+    width: 140px;
+    height: 140px;
+}
+
+
+/* section four styless */
+
+.four {
+    width: 1320px;
+    height: 482px;
+    background-color: #FFF;
+    margin: 0px 140px 0px 160px;
+    text-align: center;
+}
+
+#what {
+    color: #070211;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 0;
+    padding-bottom: 0;
+
+}
+
+#main-hed {
+    color: #F00;
+    text-align: center;
+    font-size: 72px;
+    font-weight: 900;
+    margin-bottom: 0;
+}
+
+#sales {
+    color: #070211;
+}
+
+#dolarr {
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 0;
+    text-align: center;
+
+}
+
+.shop-section {
+    margin: 120px;
+    background-color: #FFF;
+    width: 1320px;
+}
+
+/* shopp title */
+#the-best {
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500;
+    margin: 0px;
+    margin-bottom: 24px;
+}
+
+#portfolio {
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+    margin: 0px;
+}
+
+#shop-para {
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.colom img {
+    align-items: center;
+}
+
+
+/* .fflex{
+    display: flex;
+ } */
+.colom {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+/* subscribe section */
+
+.subscribe-section {
+    width: 1320px;
+    height: 616px;
+    background: rgba(255, 0, 0, 0.05);
+    border-radius: 16px;
+    margin: 130px;
+}
+
+.info-here {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.email {
+    display: block;
+    margin: 80px 580px 0px 580px;
+    margin-top: 80px;
+
+}
+
+.head-para {
+    text-align: center;
+}
+
+.inputtype {
+    text-align: center;
+}
+
+.subscribe-me {
+    color: #070211;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.dolarrr {
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+    padding-left: 350px;
+    padding-right: 350px;
+}
